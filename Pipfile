@@ -20,6 +20,8 @@ sqlalchemy = "*"
 graphene-sqlalchemy = "*"
 flask-graphql = "*"
 python-twitter = "*"
+tweepy = "*"
+flask-appbuilder = "*"
 
 [requires]
 python_version = "3.7"
