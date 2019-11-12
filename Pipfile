@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+
+[packages]
+flask = "*"
+psycopg2-binary = "*"
+basilica = "*"
+numpy = "*"
+six = "*"
+scipy = "*"
+scikit-learn = "*"
+joblib = "*"
+graphene = "*"
+sqlalchemy = "*"
+graphene-sqlalchemy = "*"
+flask-graphql = "*"
+python-twitter = "*"
+
+[requires]
+python_version = "3.7"
