@@ -22,6 +22,11 @@ flask-graphql = "*"
 python-twitter = "*"
 tweepy = "*"
 flask-appbuilder = "*"
+jinja2 = "*"
+gunicorn = "*"
+python-decouple = "*"
+redis = "*"
+flask-sqlalchemy = "*"
 
 [requires]
 python_version = "3.7"
